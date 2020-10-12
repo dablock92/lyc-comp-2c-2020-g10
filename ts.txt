@@ -1,0 +1,19 @@
+TABLA DE SIMBOLOS
+
+              NOMBRE	        TIPO DE DATO	               VALOR	            LONGITUD
+_2                            |               |2                             |               
+_4                            |               |4                             |               
+_52                           |               |52                            |               
+_256                          |               |256                           |               
+_0.342                        |               |0.342                         |               
+_1                            |               |1                             |               
+_92                           |               |92                            |               
+_nombre                       |               |nombre                        |               
+_02.5                         |               |02.5                          |               
+_0                            |               |0                             |               
+_"Ingrese cantidad de dias"   |               |"Ingrese cantidad de dias"    |               
+_80                           |               |80                            |               
+_suma                         |               |suma                          |               
+_actual                       |               |actual                        |               
+_promedio                     |               |promedio                      |               
+_contador                     |               |contador                      |               
